@@ -1,2 +1,1 @@
-##This is a mathgame Using javascript
-![Screenshot](https://user-images.githubusercontent.com/78909300/147875499-44843e88-16b8-449f-a70b-79afc0d056ae.jpg)
+![qr](https://user-images.githubusercontent.com/78909300/231557160-6bf4e3bc-06b0-4b04-8beb-84023f22b373.jpg)
